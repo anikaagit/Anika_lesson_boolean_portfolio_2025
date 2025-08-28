@@ -11,4 +11,4 @@ remote_theme: jekyll/cayman
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-include-cache
+  
